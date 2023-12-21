@@ -1,6 +1,6 @@
 | Função | Descrição |
 |---|---|
-| AND |	Verifica se ambos os argumentos são TRUE e retorna TRUE se isso se confirmar. |
+| [AND](And.md) |	Verifica se ambos os argumentos são TRUE e retorna TRUE se isso se confirmar. |
 | BITAND |	Retorna um bit AND de dois números.|
 | BITLSHIFT |	Retorna um número deslocado para a esquerda pelo número especificado de bits. |
 | BITOR	| Retorna um bit “OR” de dois números.|
